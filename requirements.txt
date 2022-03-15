@@ -13,7 +13,7 @@ astropy @ file:///C:/ci/astropy_1617745647203/work
 async-generator @ file:///home/ktietz/src/ci/async_generator_1611927993394/work
 atomicwrites==1.4.0
 attrs @ file:///tmp/build/80754af9/attrs_1604765588209/work
-autopep8 @ file:///tmp/build/80754af9/autopep8_1615918855173/work
+autopep8==1.5.7
 Babel @ file:///tmp/build/80754af9/babel_1607110387436/work
 backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
 backports.functools-lru-cache @ file:///tmp/build/80754af9/backports.functools_lru_cache_1618170165463/work
@@ -55,7 +55,11 @@ decorator @ file:///tmp/build/80754af9/decorator_1617916966915/work
 defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
 diff-match-patch @ file:///tmp/build/80754af9/diff-match-patch_1594828741838/work
 distributed @ file:///C:/ci/distributed_1617384289923/work
-Django==3.2.8
+dj-database-url==0.5.0
+Django==3.2.7
+django-cors-headers==3.8.0
+django-heroku==0.3.1
+djangorestframework==3.12.4
 docutils @ file:///C:/ci/docutils_1617481617511/work
 entrypoints==0.3
 et-xmlfile==1.0.1
@@ -151,16 +155,17 @@ patsy==0.5.1
 pep8==1.7.1
 pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
 pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
-Pillow @ file:///C:/ci/pillow_1617386341487/work
+Pillow==8.3.2
 pkginfo==1.7.0
 pluggy @ file:///C:/ci/pluggy_1615976358795/work
 ply==3.11
 prometheus-client @ file:///tmp/build/80754af9/prometheus_client_1618088486455/work
 prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1616415428029/work
 psutil @ file:///C:/ci/psutil_1612298324802/work
+psycopg2==2.9.3
 ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
 py @ file:///tmp/build/80754af9/py_1607971587848/work
-pycodestyle @ file:///home/ktietz/src/ci_mi/pycodestyle_1612807597675/work
+pycodestyle==2.7.0
 pycosat==0.6.3
 pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
 pycurl==7.43.0.6
