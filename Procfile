@@ -1,1 +1,0 @@
-web: gunicorn CCMS.wsgi A2SL --log-file -
